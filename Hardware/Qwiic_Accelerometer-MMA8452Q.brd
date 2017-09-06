@@ -54,7 +54,7 @@
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
 <layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
@@ -199,6 +199,8 @@ Accelerometer</text>
 <wire x1="4.8768" y1="18.9738" x2="5.5118" y2="18.3388" width="0.1778" layer="22"/>
 <wire x1="5.5118" y1="18.9738" x2="4.8768" y2="18.3388" width="0.1778" layer="22"/>
 <text x="2.413" y="1.27" size="1.27" layer="16" font="vector" ratio="15" rot="MR0" align="center">X01</text>
+<dimension x1="2.54" y1="22.86" x2="22.86" y2="22.86" x3="12.7" y3="31.75" textsize="1.27" textratio="15" layer="47" unit="inch"/>
+<dimension x1="0" y1="25.4" x2="0" y2="0" x3="-8.89" y3="12.7" textsize="1.27" textratio="15" layer="47" unit="inch"/>
 </plain>
 <libraries>
 <library name="SparkFun">
