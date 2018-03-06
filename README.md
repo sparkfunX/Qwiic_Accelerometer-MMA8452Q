@@ -1,3 +1,5 @@
+View this project on [CADLAB.io](https://cadlab.io/node/733). 
+
 Qwiic Accelerometer - MMA8452Q
 ========================================
 
